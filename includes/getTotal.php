@@ -1,1 +1,1 @@
-1
+server1=1&server2=0&server3=0&server4=0&serverPVP=0&totalPlayers=1
