@@ -563,8 +563,8 @@
 
 <stalkling>
 <walkFrame>40</walkFrame>
-<helmetOffsetX>8</helmetOffsetX>
-<helmetOffsetY>10</helmetOffsetY>
+<helmetOffsetX>-9</helmetOffsetX>
+<helmetOffsetY>-7</helmetOffsetY>
 <helmetScale>0.81</helmetScale>
 <shoePlaceX>1</shoePlaceX>
 <shoePlaceY>6</shoePlaceY>
@@ -1023,7 +1023,7 @@
 <tebroni>
 <walkFrame>38</walkFrame>
 <helmetOffsetX>-9</helmetOffsetX>
-<helmetOffsetY>-10</helmetOffsetY>
+<helmetOffsetY>-14</helmetOffsetY>
 <helmetScale>1.1199951171875</helmetScale>
 <shoePlaceX>1</shoePlaceX>
 <shoePlaceY>0</shoePlaceY>
@@ -1584,7 +1584,7 @@
 <nightterror>
 <walkFrame>39</walkFrame>
 <helmetOffsetX>-8</helmetOffsetX>
-<helmetOffsetY>-13</helmetOffsetY>
+<helmetOffsetY>-16</helmetOffsetY>
 <helmetScale>1.1197052483332446</helmetScale>
 <shoePlaceX>0</shoePlaceX>
 <shoePlaceY>0</shoePlaceY>
