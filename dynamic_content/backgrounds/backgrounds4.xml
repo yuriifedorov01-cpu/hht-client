@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backgrounds4.png">
+	<!-- Created with Adobe Flash Professional version 14.2.0.20 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="background 1" x="0" y="1079" width="689" height="407" pivotX="346.05" pivotY="152.3"/>
+	<SubTexture name="background 2" x="0" y="646" width="948" height="433" pivotX="475.5" pivotY="185.15"/>
+	<SubTexture name="background 3" x="0" y="0" width="915" height="646" pivotX="455.8" pivotY="321.2"/>
+	<SubTexture name="cloud" x="692" y="1079" width="226" height="144" pivotX="112.3" pivotY="71.15"/>
+	<SubTexture name="sky" x="692" y="1223" width="177" height="130" pivotX="88.2" pivotY="65"/>
+</TextureAtlas>
