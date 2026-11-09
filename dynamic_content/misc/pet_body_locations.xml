@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <pets>
 <civic>
-<walkFrame>1</walkFrame>
+<walkFrame>2</walkFrame>
 <helmetOffsetX>0</helmetOffsetX>
 <helmetOffsetY>0</helmetOffsetY>
 <helmetScale>1</helmetScale>
@@ -24,7 +24,7 @@
 <bodyScaleY>0.3,0.3</bodyScaleY>
 </civic>
 <s2000>
-<walkFrame>1</walkFrame>
+<walkFrame>2</walkFrame>
 <helmetOffsetX>0</helmetOffsetX>
 <helmetOffsetY>0</helmetOffsetY>
 <helmetScale>1</helmetScale>
@@ -47,7 +47,7 @@
 <bodyScaleY>0.3,0.3</bodyScaleY>
 </s2000>
 <nsx>
-<walkFrame>1</walkFrame>
+<walkFrame>2</walkFrame>
 <helmetOffsetX>0</helmetOffsetX>
 <helmetOffsetY>0</helmetOffsetY>
 <helmetScale>1</helmetScale>
