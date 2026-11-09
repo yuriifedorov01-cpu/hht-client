@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="items_pets_bodies.png">
 	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
 	<!-- http://www.adobe.com/products/flash.html -->
@@ -1299,4 +1299,13 @@
 	<SubTexture name="ticket" x="970" y="1571" width="40" height="72" pivotX="20" pivotY="36"/>
 	<SubTexture name="none" x="804" y="1670" width="1" height="1" pivotX="0.5" pivotY="0.5"/>
 	<SubTexture name="nothing" x="804" y="1670" width="1" height="1" pivotX="0.5" pivotY="0.5"/>
-</TextureAtlas>
+<SubTexture name="civic body" x="1450" y="0" width="374" height="128" pivotX="187" pivotY="102"/>
+<SubTexture name="civic head" x="2040" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+<SubTexture name="civic leg" x="2041" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+<SubTexture name="s2000 body" x="1450" y="140" width="376" height="124" pivotX="188" pivotY="99"/>
+<SubTexture name="s2000 head" x="2040" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+<SubTexture name="s2000 leg" x="2041" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+<SubTexture name="nsx body" x="1450" y="280" width="392" height="114" pivotX="196" pivotY="91"/>
+<SubTexture name="nsx head" x="2040" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+<SubTexture name="nsx leg" x="2041" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
+	</TextureAtlas>
