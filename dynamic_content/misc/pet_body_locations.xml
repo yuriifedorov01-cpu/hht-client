@@ -20,8 +20,8 @@
 <rightLegRotation>0,0</rightLegRotation>
 <bodyX>0,0</bodyX>
 <bodyY>0,0</bodyY>
-<bodyScaleX>0.3,0.3</bodyScaleX>
-<bodyScaleY>0.3,0.3</bodyScaleY>
+<bodyScaleX>0.6,0.6</bodyScaleX>
+<bodyScaleY>0.6,0.6</bodyScaleY>
 </civic>
 <s2000>
 <walkFrame>2</walkFrame>
@@ -43,8 +43,8 @@
 <rightLegRotation>0,0</rightLegRotation>
 <bodyX>0,0</bodyX>
 <bodyY>0,0</bodyY>
-<bodyScaleX>0.3,0.3</bodyScaleX>
-<bodyScaleY>0.3,0.3</bodyScaleY>
+<bodyScaleX>0.6,0.6</bodyScaleX>
+<bodyScaleY>0.6,0.6</bodyScaleY>
 </s2000>
 <nsx>
 <walkFrame>2</walkFrame>
@@ -66,8 +66,8 @@
 <rightLegRotation>0,0</rightLegRotation>
 <bodyX>0,0</bodyX>
 <bodyY>0,0</bodyY>
-<bodyScaleX>0.3,0.3</bodyScaleX>
-<bodyScaleY>0.3,0.3</bodyScaleY>
+<bodyScaleX>0.6,0.6</bodyScaleX>
+<bodyScaleY>0.6,0.6</bodyScaleY>
 </nsx>
 <tebra>
 <walkFrame>41</walkFrame>
