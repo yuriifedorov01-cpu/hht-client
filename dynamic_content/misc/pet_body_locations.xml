@@ -7,6 +7,7 @@
 <helmetScale>1</helmetScale>
 <shoePlaceX>0</shoePlaceX>
 <shoePlaceY>0</shoePlaceY>
+<bodyFrames>civic body,civic body walk,civic body run</bodyFrames>
 <headX>0,0</headX>
 <headY>0,0</headY>
 <helmetX>0,0</helmetX>
@@ -29,6 +30,7 @@
 <helmetScale>1</helmetScale>
 <shoePlaceX>0</shoePlaceX>
 <shoePlaceY>0</shoePlaceY>
+<bodyFrames>s2000 body,s2000 body walk,s2000 body run</bodyFrames>
 <headX>0,0</headX>
 <headY>0,0</headY>
 <helmetX>0,0</helmetX>
@@ -51,6 +53,7 @@
 <helmetScale>1</helmetScale>
 <shoePlaceX>0</shoePlaceX>
 <shoePlaceY>0</shoePlaceY>
+<bodyFrames>nsx body,nsx body walk,nsx body run</bodyFrames>
 <headX>0,0</headX>
 <headY>0,0</headY>
 <helmetX>0,0</helmetX>
