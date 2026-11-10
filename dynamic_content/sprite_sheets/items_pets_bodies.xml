@@ -1299,15 +1299,15 @@
 	<SubTexture name="ticket" x="970" y="1571" width="40" height="72" pivotX="20" pivotY="36"/>
 	<SubTexture name="none" x="804" y="1670" width="1" height="1" pivotX="0.5" pivotY="0.5"/>
 	<SubTexture name="nothing" x="804" y="1670" width="1" height="1" pivotX="0.5" pivotY="0.5"/>
-<SubTexture name="civic body" x="1450" y="0" width="374" height="135" pivotX="187" pivotY="108"/>
-<SubTexture name="civic body walk" x="1450" y="141" width="374" height="135" pivotX="186.5" pivotY="108"/>
-<SubTexture name="civic body run" x="1450" y="282" width="419" height="135" pivotX="232.3" pivotY="108"/>
-<SubTexture name="s2000 body" x="1450" y="423" width="376" height="130" pivotX="188" pivotY="104"/>
-<SubTexture name="s2000 body walk" x="1450" y="559" width="376" height="130" pivotX="188" pivotY="104"/>
-<SubTexture name="s2000 body run" x="1450" y="695" width="416" height="130" pivotX="228.1" pivotY="104"/>
-<SubTexture name="nsx body" x="1450" y="831" width="392" height="115" pivotX="196" pivotY="92"/>
-<SubTexture name="nsx body walk" x="1450" y="952" width="392" height="115" pivotX="196" pivotY="92"/>
-<SubTexture name="nsx body run" x="1450" y="1073" width="430" height="115" pivotX="234.1" pivotY="92"/>
+<SubTexture name="civic body" x="1450" y="0" width="374" height="136" pivotX="187" pivotY="108.8"/>
+<SubTexture name="civic body walk" x="1450" y="142" width="373" height="136" pivotX="187" pivotY="108.8"/>
+<SubTexture name="civic body run" x="1450" y="284" width="420" height="136" pivotX="232.7" pivotY="108.8"/>
+<SubTexture name="s2000 body" x="1450" y="426" width="376" height="132" pivotX="188" pivotY="105.6"/>
+<SubTexture name="s2000 body walk" x="1450" y="564" width="376" height="132" pivotX="188" pivotY="105.6"/>
+<SubTexture name="s2000 body run" x="1450" y="702" width="415" height="132" pivotX="226.8" pivotY="105.6"/>
+<SubTexture name="nsx body" x="1450" y="840" width="392" height="116" pivotX="196" pivotY="92.8"/>
+<SubTexture name="nsx body walk" x="1450" y="962" width="395" height="116" pivotX="197.3" pivotY="92.8"/>
+<SubTexture name="nsx body run" x="1450" y="1084" width="433" height="116" pivotX="236.1" pivotY="92.8"/>
 <SubTexture name="civic head" x="2040" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
 <SubTexture name="civic leg" x="2041" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
 <SubTexture name="s2000 head" x="2040" y="1000" width="1" height="1" pivotX="0" pivotY="0"/>
