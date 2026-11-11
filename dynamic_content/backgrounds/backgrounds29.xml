@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="backgrounds29.png">
-	<!-- Created with Adobe Animate version 16.5.1.104 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="background 3" x="0" y="456" width="805" height="370" pivotX="-5.5" pivotY="144.25"/>
-	<SubTexture name="background 1" x="0" y="828" width="805" height="344" pivotX="-5.5" pivotY="63.85"/>
-	<SubTexture name="background 2" x="0" y="0" width="805" height="454" pivotX="-5.5" pivotY="228.4"/>
-	<SubTexture name="sky" x="0" y="1174" width="306" height="232" pivotX="0" pivotY="0"/>
-</TextureAtlas>

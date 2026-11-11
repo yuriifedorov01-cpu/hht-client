@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="backgrounds9.png">
-	<SubTexture name="background 1" x="0" y="0" width="1013" height="550" pivotX="508" pivotY="275.45"/>
-	<SubTexture name="background 2" x="0" y="550" width="1015" height="462" pivotX="508.8" pivotY="229.3"/>
-	<SubTexture name="background 3" x="0" y="1012" width="1016" height="384" pivotX="509.55" pivotY="190.25"/>
-	<SubTexture name="cloud" x="0" y="1396" width="354" height="120" pivotX="176.3" pivotY="59.15"/>
-	<SubTexture name="sky" x="355" y="1397" width="181" height="133" pivotX="90.95" pivotY="67"/>
-</TextureAtlas>
