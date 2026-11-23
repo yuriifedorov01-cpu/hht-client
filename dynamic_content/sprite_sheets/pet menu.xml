@@ -29,4 +29,6 @@
 	<SubTexture name="pink pixel" x="969" y="451" width="1" height="1" />
 	<SubTexture name="yellow pixel" x="864" y="409" width="1" height="1" />
 	<SubTexture name="dark pixel" x="636" y="457" width="1" height="1" />
+	<SubTexture name="info_gold_00" x="20" y="1200" width="66" height="24" pivotX="33" pivotY="12"/>
+	<SubTexture name="release_gold_00" x="100" y="1200" width="82" height="24" pivotX="41" pivotY="12"/>
 </TextureAtlas>

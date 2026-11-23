@@ -12,4 +12,5 @@
 	<SubTexture name="panel 3" x="0" y="0" width="821" height="483" />
 	<SubTexture name="shine" x="120" y="1530" width="25" height="28" />
 	<SubTexture name="x btn" x="0" y="1530" width="46" height="46" />
+	<SubTexture name="drops_btn_00" x="20" y="1700" width="130" height="30"/>
 </TextureAtlas>

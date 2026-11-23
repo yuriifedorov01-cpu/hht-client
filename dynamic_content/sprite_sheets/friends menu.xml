@@ -19,4 +19,5 @@
 	<SubTexture name="scroll_btn" x="480" y="678" width="29" height="39" pivotX="14.5" pivotY="19"/>
 	<SubTexture name="unFriend_btn_00" x="272" y="637" width="124" height="39" pivotX="51.15" pivotY="15.25"/>
 	<SubTexture name="x_btn_00" x="0" y="728" width="48" height="45" pivotX="30.2" pivotY="18.6"/>
+	<SubTexture name="add_btn_00" x="20" y="920" width="72" height="28"/>
 </TextureAtlas>

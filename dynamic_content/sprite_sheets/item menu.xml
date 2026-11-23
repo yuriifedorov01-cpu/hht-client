@@ -69,4 +69,14 @@
 	
 	<SubTexture name="dark green pixel" x="202" y="445" width="1" height="1" />
 	<SubTexture name="confirm backdrop" x="0" y="1885" width="430" height="157" pivotX="0" pivotY="0"/>
+	<SubTexture name="takeItem_btn_00" x="1030" y="1800" width="80" height="28"/>
+	<SubTexture name="all_btn_00" x="1120" y="1800" width="52" height="28"/>
+	<SubTexture name="sort_btn_00" x="1180" y="1800" width="64" height="28"/>
+	<SubTexture name="sellJunk_btn_00" x="1250" y="1800" width="86" height="28"/>
+	<SubTexture name="wpn_btn_00" x="1345" y="1800" width="52" height="28"/>
+	<SubTexture name="arm_btn_00" x="1405" y="1800" width="52" height="28"/>
+	<SubTexture name="food_btn_00" x="1465" y="1800" width="56" height="28"/>
+	<SubTexture name="lootBeams_btn_00" x="1030" y="1840" width="132" height="32"/>
+	<SubTexture name="keyBinds_btn_00" x="1170" y="1840" width="132" height="32"/>
+	<SubTexture name="admin_btn_00" x="1310" y="1840" width="132" height="32"/>
 </TextureAtlas>
