@@ -2,16 +2,16 @@
 <TextureAtlas imagePath="controls.png">
 	<!-- Created with Adobe Flash Professional version 15.0.1.179 -->
 	<!-- http://www.adobe.com/products/flash.html -->
-	<SubTexture name="character" x="0" y="117" width="139" height="40" pivotX="85.4" pivotY="0.75"/>
+	<SubTexture name="character" x="692" y="165" width="102" height="34" pivotX="51" pivotY="17"/>
 	<SubTexture name="chat" x="0" y="0" width="929" height="117" pivotX="464.3" pivotY="58"/>
-	<SubTexture name="social" x="437" y="117" width="107" height="40" pivotX="67.4" pivotY="0.35"/>
-	<SubTexture name="heropedia" x="139" y="117" width="162" height="29" pivotX="85.4" pivotY="-10.3"/>
-	<SubTexture name="items" x="788" y="117" width="97" height="32" pivotX="67.4" pivotY="-6.95"/>
-	<SubTexture name="map" x="929" y="31" width="75" height="30" pivotX="49.65" pivotY="-10.55"/>
-	<SubTexture name="missions" x="665" y="117" width="123" height="30" pivotX="79.9" pivotY="-10.55"/>
-	<SubTexture name="options" x="544" y="117" width="121" height="31" pivotX="79.9" pivotY="-8.05"/>
-	<SubTexture name="payvault" x="301" y="117" width="136" height="33" pivotX="102.4" pivotY="-5.55"/>
-	<SubTexture name="pets" x="929" y="0" width="87" height="31" pivotX="70.15" pivotY="-8.2"/>
+	<SubTexture name="social" x="798" y="165" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="heropedia" x="586" y="205" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="items" x="904" y="165" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="map" x="480" y="205" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="missions" x="586" y="165" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="options" x="798" y="205" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="payvault" x="692" y="205" width="102" height="34" pivotX="51" pivotY="17"/>
+	<SubTexture name="pets" x="480" y="165" width="102" height="34" pivotX="51" pivotY="17"/>
 	<SubTexture name="main menu" x="887" y="125" width="127" height="29" />
 	
 	<SubTexture name="health BG" x="0" y="157" width="271" height="36" />
